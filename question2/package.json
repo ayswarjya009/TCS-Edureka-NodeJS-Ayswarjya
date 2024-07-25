@@ -1,0 +1,23 @@
+{
+    "name": "assignment-m02",
+    "version": "1.0.0",
+    "description": "Edureka NodeJS Module02 Assignment",
+    "main": "index.js",
+    "scripts": {
+        "start": "node app.js",
+        "dev": "nodemon app.js"
+    },
+    "keywords": [
+        "Fs",
+        "Yargs",
+        "Express",
+        "pm2",
+        "nginx"
+    ],
+    "author": "Ayswarjya",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.19.2",
+        "pm2": "^5.4.2"
+    }
+}
